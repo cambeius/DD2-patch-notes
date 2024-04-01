@@ -1,5 +1,5 @@
 # Dragon's Dogma 2 Patch Notes
-p class="update-list-dt-date">4.1.2024</p>
+4.1.2024</p>
             </dt>
             <dd class="update-list-dd frame-border">
               <div class="update-list-dd-item update-list-dd-item-common">
