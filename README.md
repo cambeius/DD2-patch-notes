@@ -1,5 +1,3 @@
-# Dragon's Dogma 2 Patch Notes
-
 <!DOCTYPE html>
 <html lang="en-US">
 <head prefix="og: http://ogp.me/ns#">
