@@ -1,5 +1,5 @@
 # Dragon's Dogma 2 Patch Notes
-div class="wrapper" id="wrapper">
+<div class="wrapper" id="wrapper">
 
   <main class="main">
     <div class="sec sec-update">
