@@ -121,9 +121,5 @@
           <ul class="update-list-notes">
             <li class="update-list-notes-item">*These options won't affect frame rate significantly. Improvements to frame rate are planned for future updates.</li>
           </ul>
-          <p class="update-list-teaser"></p>
-          <div class="btn home-btn home-btn-pdf ff-serif">
-            <a href="../../../assets/images/topics/update/topics-update.pdf" target="_blank" rel="noopener">If you are having issues <br class="hide-pc">displaying this page correctly, click here.</a>
-          </div>
-        </div>
+         </div>
       </div>
